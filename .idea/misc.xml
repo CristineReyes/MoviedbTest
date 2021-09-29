@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PROYECTOS/Udemy Android Kotlin/Layouts/MoviedbTest/app/src/main/res/layout/activity_detail_movie.xml" value="0.20520833333333333" />
+        <entry key="..\:/PROYECTOS/Udemy Android Kotlin/Layouts/MoviedbTest/app/src/main/res/layout/activity_detail_movie_one.xml" value="0.20260416666666667" />
+        <entry key="..\:/PROYECTOS/Udemy Android Kotlin/Layouts/MoviedbTest/app/src/main/res/layout/activity_detail_one.xml" value="0.2682291666666667" />
+        <entry key="..\:/PROYECTOS/Udemy Android Kotlin/Layouts/MoviedbTest/app/src/main/res/layout/activity_main.xml" value="0.35353535353535354" />
+        <entry key="..\:/PROYECTOS/Udemy Android Kotlin/Layouts/MoviedbTest/app/src/main/res/layout/activity_single_movie.xml" value="0.36666666666666664" />
+        <entry key="..\:/PROYECTOS/Udemy Android Kotlin/Layouts/MoviedbTest/app/src/main/res/layout/activity_test.xml" value="0.1" />
+        <entry key="..\:/PROYECTOS/Udemy Android Kotlin/Layouts/MoviedbTest/app/src/main/res/layout/movie_item_list.xml" value="0.1" />
+        <entry key="..\:/PROYECTOS/Udemy Android Kotlin/Layouts/MoviedbTest/app/src/main/res/layout/network_state_item.xml" value="0.34057971014492755" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
